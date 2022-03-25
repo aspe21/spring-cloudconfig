@@ -1,10 +1,10 @@
-package com.pluralsight.configserver;
+package com.pluralsight.configservergit;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConfigserverApplicationTests {
+class ConfigserverGitApplicationTests {
 
 	@Test
 	void contextLoads() {
